@@ -30,8 +30,7 @@ The player has to uncover all safe cells without clicking on a mine. The game al
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/kshitijpachpande12-max/Minesweeper_py
 ```
 
 Install NumPy:
